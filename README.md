@@ -42,8 +42,10 @@ THEN I find a concise, descriptive title
 You are required to submit BOTH of the following for review:
 
 * The URL of the deployed application.
+https://sajitharavindan.github.io/sajith-urban-octo-telegram/
 
-* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
+* The URL of the GitHub repository that contains the code. 
+https://github.com/SajithAravindan/sajith-urban-octo-telegram.git
 
 - - -
 © 2023 Confidential and Proprietary. All Rights Reserved.
